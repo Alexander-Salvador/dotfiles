@@ -34,7 +34,7 @@ Script to prepare your GNU/Linux terminal (WSL also) in a «superterminal» with
 ## Installation
 
 ```bash
-git clone https://github.com/manzdev/dotfiles ~/.dotfiles
+git clone https://github.com/Alexander-Salvador/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 bash install.sh
 ```
